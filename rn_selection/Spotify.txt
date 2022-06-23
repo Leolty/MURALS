@@ -1,0 +1,13 @@
+01 2017-11-17 We ve now added support for the iPhone X 
+02 2018-08-30 Fixed issue when clicking external links
+03 2018-10-08 Fixed an issue where audio stops if the screen goes to sleep while using CarPlay
+04 2018-11-13 This release includes the first version of our Apple Watch app
+05 2019-01-07 Added support for iPhone XS Max and Apple Watch Series 
+06 2019-02-08 Apple Watch Improved reliability for volume control
+07 2019-10-07 Siri available on iOS Control your Spotify listening experience on iPhone iPad Carplay AirPods and HomePod via Airplay
+08 2019-10-07 Spotify now available on Apple TV Download it via the tvOS App Store or enable automatically install apps in tvOS settings to install it
+09 2019-10-07 Low data mode on iOS Spotify will now turn on Data Saver when your device s Low Data Mode is turned on
+10 2019-10-21 Upcoming versions will only support iOS and later 
+11 2020-04-02 Version of Spotify via Siri on Apple Watch watchOS is available for your enjoyment 
+12 2020-04-02 Try saying Hey Siri Play music on Spotify or any other voice query of your choice adding on Spotify at the end
+

@@ -1,0 +1,14 @@
+01 2018-01-12 Introducing support for iPhone X 
+02 2018-06-24 Fixes for top crashes from last release offline mode bugs 
+03 2018-09-15 Go to Settings and choose the new Change App Icon option 
+04 2018-12-20 Podcasts on Pandora have arrived 
+05 2019-01-04 By popular demand we bring you a brand new built from the ground up app that s seamlessly integrated into the Apple Watch experience so now you can Access remote playback controls 
+06 2019-09-17 Now you can ask Siri to play your music on Pandora 
+07 2019-09-17 Our app now supports Dark Mode in iOS 
+08 2020-01-10 Fixed an issue where the app would open repeatedly while connected to CarPlay 
+09 2020-02-13 Introducing our new standalone Apple Watch app
+10 2020-04-29 NEW: Siri on Apple Watch
+11 2020-11-02 New Use your voice to enjoy Pandora on your Apple HomePod
+12 2021-04-26 Listening to your favorite music just got easier thanks to our new iOS home screen widget 
+
+

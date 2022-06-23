@@ -1,0 +1,12 @@
+01 2018-02-09 Mods can now edit post flairs in their communities
+02 2018-04-24 Comments can now be sorted by either Live or New
+03 2018-08-27 Fixed an issue where opening the Reddit app would pause interrupt audio from other apps
+04 2018-10-08 Added the ability to click links inside of comments in Mod Queue
+05 2019-02-11 Drafts are now available 
+06 2019-06-17 Fixed a bug that caused some notifications to not open the app correctly
+07 2019-07-15 Disable reply notifications per individual comment or post
+08 2019-10-11 Users can now share content directly to their Snapchat story
+09 2020-02-26 When you write a long post or message on an iPad or iPhone, the text won’t get cut off on the right anymore
+10 2020-06-28 You can’t create blank comments anymore 
+11 2020-09-22 New Functionality: Group chat moderators can remove people from the chat now
+12 2020-12-15 Introducing Reddit iOS Widgets

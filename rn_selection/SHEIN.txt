@@ -1,0 +1,12 @@
+01 2017-12-21 Spell check for searching is available. You may find quicker what you want even when there is misspelling.
+02 2018-05-16 A coupon code will be credited to your account when you scan it with our QR code feature.
+03 2018-07-06 You can also search for certain orders directly on the My Orders page to save more time
+04 2018-10-13 More community activities added.
+05 2019-01-30 Multi-color exposed display on the product list page
+06 2019-06-22 Support PayPal Secret-Free Payment, Make It Convenient.
+07 2019-07-14 Estimated delivery time added to product details
+08 2019-12-10 add more tags to your search for better search results and find styles faster.
+09 2020-02-27 Rencently viewed added delete function, protect your viewing history better
+10 2020-04-10 Added a translate function for comments, so now you can read every comment
+11 2020-09-25 try out the search function on new product page, find products you like more easily
+12 2020-11-03 Sorting and filtering added to Flash Sale, find your desired products more easily
