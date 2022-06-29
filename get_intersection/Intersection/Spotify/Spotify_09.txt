@@ -1,0 +1,20 @@
+5&2020-01-13 05:45:06&The low data mode doesn t really work 
+4&2020-08-12 13:45:27&Data saver turned off 
+1&2020-10-12 07:12:47&Under iOS settings cellular Spotify the data is turned off when I go into it 
+1&2018-02-15 01:33:20&I have cellular data turned off to Spotify but it still uses data 
+1&2019-10-10 19:03:58&I turn cellular data on for Spotify in settings and when I go to the Spotify app it turns it back off
+2&2019-07-02 18:15:16&but i cannot find the actual spotify app in my cellular data settings to turn using data at all for the app on or off 
+4&2020-08-22 08:17:26&The main thing for me is that Spotify has a data saver to help lower the data used when streaming 
+1&2019-05-24 08:04:22&I have the cellular data privileges turned off for Spotify but Spotify is still using my data 
+1&2021-09-24 01:24:30&I also turned off cellular data for Spotify to save on my data plan 
+4&2017-08-13 04:55:46&As a result I now keep me cellular data turned OFF for Spotify in my iPhone settings and recommend others do the same if you have limited data plans 
+3&2020-05-07 07:35:03&I ve even tried turning off the cellular data option for Spotify and it still hasn t worked 
+3&2018-03-12 10:18:28&Going on a few weeks ago Spotify has been refusing to use my cellular data when I m away from wifi even though offline mode is disabled and it should feed off my data just fine 
+1&2019-06-13 23:21:55&I even turned off my WiFi and used Spotify via data but it still showed the same outcome 
+2&2019-10-04 23:07:19&I religiously use Low Power Mode but even so my battery analytics show that Spotify is using as much as of my battery even with my screen turned off 
+1&2021-05-05 01:39:51&As of the most recent app update Spotify uses data even when the option is disabled in settings under cellular data 
+1&2021-02-17 01:49:49&Might just have to turn off data usage for Spotify specifically because I don t feel like dealing with this while driving and requiring the data for GPS usage or whatever 
+1&2021-01-03 11:20:26&Might just have to turn off data usage for Spotify specifically because I don t feel like dealing with this while driving and requiring the data for GPS usage or whatever 
+3&2017-11-15 02:11:15&Sometimes when I have Data turned off through settings Spotify will continue to suggest new songs and use Data 
+1&2020-11-20 01:26:04&I was using the app at work and thought I was playing music offline as I had cellular data off in the Cellular settings AND in the Spotify specific settings 
+4&2019-01-22 11:25:53&The only way to fix this and prevent accidental cell data use is to force Spotify into offline mode 
