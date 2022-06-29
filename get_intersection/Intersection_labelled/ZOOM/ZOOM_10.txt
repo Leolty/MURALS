@@ -1,0 +1,6 @@
+2&2020-11-27 18:54:07&Where do I locate my personal meeting joined settings on my iPhone 
+1&2020-08-18 21:27:06&I cannot join a zoom call without it telling me to put my personal meeting ID
+1&2021-03-24 22:30:42&To join a meeting zoom is ok but to host a meeting it wants you to put in your personal ID 
+1&2020-05-02 06:28:40&When I start a personal meeting and my invites try to sign on using my ID and password they are always told that they can t because I have another meeting running 
+2&2020-04-19 07:28:43&Current app version will not allow you to change personal meeting ID password
+
