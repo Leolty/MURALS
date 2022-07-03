@@ -9,6 +9,8 @@ files = os.listdir(path)
 
 res = []
 for file in files:
+    if file == 'ZOOM.txt':
+        continue
     file_handle = open(path+"/"+file, "r", encoding="UTF-8")
     app = []
     for line in file_handle:
@@ -25,7 +27,7 @@ for file in files:
 # plt.scatter(res,res_y)
 # plt.show()
 res.sort()
-print(res)
+print(len(res))
 
 gap = 20
 right = -1250+gap
