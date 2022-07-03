@@ -1,0 +1,18 @@
+1&2020-01-11 12:51:50& Pandora keeps opening while connected to CarPlay &BR
+2&2019-01-06 06:29:33&I need to open on phone first before I connect to CarPlay or it will not open &BR
+2&2021-01-07 09:52:42&If I try to open any app on my iPhone while connected to CarPlay the Pandora app auto launches &BR
+1&2021-08-21 02:40:01&It still opens itself repeatedly when connected to CarPlay even with launch from car disabled &BR
+1&2020-02-06 05:34:01&Why does it still automatically connect and play on CarPlay &BR
+1&2020-03-27 21:57:46&Often won t connect with CarPlay &BR
+1&2017-03-03 04:43:00&Starts by itself when I connect to CarPlay &BR
+2&2018-11-13 11:46:43&The only way to get past that is disconnect from CarPlay force stop the app then reconnect CarPlay this is not something I should have to do every time I try to open it especially while driving &BR
+1&2020-06-10 19:30:24&Opens incessantly on CarPlay on my crosstrek even after I close the app multiple times &BR
+1&2021-07-06 11:09:45&CarPlay app have to unlock your iPhone to open sometimes &BR
+1&2021-10-26 22:08:10& With the app closed if I plug it in to apple CarPlay pandora opens itself and every time I close the app it opens itself again &BR
+1&2021-03-05 05:48:31&This happens every time I connect to apple carplay &BR
+1&2021-06-26 05:54:18&When connecting to Apple CarPlay the app would open from time to time without asking for it to open but I was able to do an internet search make a few changes and the app seemed to settle down and work properly until few weeks ago &BR 
+2&2019-04-07 11:07:46&Will never load anything unless I open the app from the phone and even then the CarPlay UI is still buggy &BR
+3&2021-01-21 03:51:41&I had to uninstall this because every time i plug my phone into my car to use carplay this app auto launches and freezes my other media player while im driving &BR
+1&2019-10-12 11:23:19&Sometimes this happens after being in the car for a while using another app via CarPlay &BR
+1&2017-11-30 21:34:32&And if I don t open and run the app before I connect to my car it won t run using Apple CarPlay &BR
+2&2017-10-18 00:23:01&And if I don t open and run the app before I connect to my car it won t run using Apple CarPlay &BR
