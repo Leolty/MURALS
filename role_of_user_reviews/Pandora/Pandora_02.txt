@@ -1,0 +1,19 @@
+3&2017-11-30 20:11:02& The last update to fix crashes has not done so &QA
+1&2017-06-12 03:28:36&ironic how this update was to fix bugs just updated to version the fix for last weeks update still crashes & C
+5&2017-06-09 19:46:47&The last update was by fixes to reduce crashes &P
+3&2017-09-10 23:14:45&I thought the update was to fix bugs crashes &P
+1&2018-02-14 13:25:04&I m not sure how the last update was supposed to fix crashes because mine didn t crash before the update and now constantly does &Q
+2&2017-12-05 07:53:10& I m not sure how the last update was supposed to fix crashes because mine didn t crash before the update and now constantly does &Q
+1&2017-05-17 18:52:43&We put a number of crash fixes into the update release but it &P
+1&2017-05-17 18:28:50&We put a number of crash fixes into the update release but it &P
+1&2017-05-17 06:24:46&We put a number of crash fixes into the update release but it &P
+1&2017-05-17 08:24:12&We put a number of crash fixes into the update release &P
+1&2017-05-17 09:09:56&We put a number of crash fixes into the update release but &P
+1&2017-05-17 05:00:07&We put a number of crash fixes into the update release but &P
+1&2017-05-15 19:33:24&We put a number of crash fixes into the update release but it a &P
+1&2017-06-07 23:42:20&The update is supposed to fix crashes and bugs &P
+3&2017-09-18 16:19:47&Crashes and bug fixes &P
+2&2017-11-30 22:14:55&Still crashes after the bug fix two days ago &QA
+1&2017-12-01 04:10:50&Funny because this last update was to fix crashes &QA
+2&2017-11-28 04:51:37&The last or so updates have been to reduce crashing but I ve been having issues every time &QA
+1&2019-04-10 02:27:05&After multiple updates the crash issue is still not fixed &QA

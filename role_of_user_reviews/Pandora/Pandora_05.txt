@@ -1,0 +1,10 @@
+1&2019-01-26 05:33:02&I m not trying to use my Watch as a remote control but rather a stand alone device &C
+2&2020-03-21 00:26:09&They took away the ability to control the app playing on phone with the Apple Watch &QA
+4&2017-09-16 21:44:03&Also would be great to be able to control the volume with the Apple Watch crown like the my music app &P
+3&2018-10-14 01:16:06&It used to support Apple watch which although it wasn t a great app but at least you could thumbs up and down and have volume control etc &P
+3&2018-11-20 11:45:58&Even if I could control the app on my phone with my watch like I can with Apple Music it would be better than nothing &P
+2&2018-01-18 23:31:49&Even with Apple Watch series you need your phone to operate the app &C
+1&2019-01-23 00:42:22&With the new Apple Watch being a standalone unit there is no need to have to sync with my iPhone in order to play music &P
+1&2018-05-30 18:02:55&I loved being able to control my Pandora listening from my Apple watch &P
+3&2018-05-16 19:49:36&The app worked good I could stream my vehicle and could control my music using my Apple Watch well now the app will crash if I have been listening to music and either make or receive a phone call &P
+3&2019-01-06 04:21:19&The dev notes says there is an Apple Watch integration for watchOS but I don t see an app at all and when I am playing music it looks just like Apple musics normal interface with no thumbs &QA

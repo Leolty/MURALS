@@ -1,1 +1,1 @@
-1&2019-10-05 23:32:00&First for practical reasons the primary one being you cannot select text on an iOS device like you can with virtually every other app including the Web version of Reddit in every browser 5&2017-05-02 21:26:39&Better yet would be to support the iOS API for custom icons and allow users to choose from various options that match the themes Reddit Dark Trees Pony 
+5&2017-05-02 21:26:39&Better yet would be to support the iOS API for custom icons and allow users to choose from various options that match the themes Reddit Dark Trees Pony 
