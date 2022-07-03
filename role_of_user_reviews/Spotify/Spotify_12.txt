@@ -1,0 +1,20 @@
+FR&3&2019-02-14 13:08:21&add hey siri play on spotify 
+P&2&2020-12-31 09:49:35&I like to play my music by asking siri this isn t an option 
+C&4&2018-07-25 22:12:16&I put stars instead of because when I ask Siri to play a song from here it doesn t work because Spotify is not the app called Music so Siri gets confused but I LOVE the songs 
+FR&3&2021-03-29 03:17:07&I love Spotify but there isn t support for playing music on the Spotify app through Siri voice commands 
+BR&4&2018-10-22 12:12:48&I tend to use Siri quite often and when I want to play trap mojito and Siri comes back and says that there is no app called Spotify on my device nor can it access the app either but if I use Apple Music it works just fine 
+QA&1&2021-11-12 00:47:28&Spotify didn t update the Siri integration so when you ask Siri to play something on Spotify she says sorry the app hasn t added support for that with Siri 
+BR&1&2020-02-08 01:59:41& Telling Siri to play playlists or certain songs doesn t actually start to play it need to manually have Spotify be opened then you need to try the request again
+BR&1&2020-01-17 13:16:49& Telling Siri to play playlists or certain songs doesn t actually start to play it need to manually have Spotify be opened then you need to try the request again
+FR&5&2017-10-19 07:57:41&Please just make us be able to call Siri and ask him to play a certain song I Spotify 
+C&1&2018-05-09 00:42:29&With Apple Music you can just tell Siri what you want to hear 
+FR&1&2019-10-05 10:15:47& I should be able to ask Siri to play a song in get it together Spotify 
+QA&5&2020-09-27 03:15:43&Also asking Siri to play a song on Spotify sometimes doesn t work 
+SFR&5&2020-10-24 22:11:08&Apple could allow better voice controls for Spotify it would be nice to be able to add songs to playlists or take songs off of playlist by asking Siri 
+P&2&2021-05-03 02:38:49&With Spotify anytime voice guidance comes on you have to go into the Spotify app and hit play again 
+C&2&2019-10-09 01:05:13&Siri tells me Spotify hasn t added support when I tell it to play a playlist or even just a song 
+IR&1&2019-01-31 13:35:18&It also doesn t interact well with Siri and AirPods every now and then you can ask Siri to play music and Spotify might respond 
+DP&3&2020-05-19 12:10:49&Siri does listen when you say to connect to Spotify which is nice but you have to events pick up your phone to choose which artist you want to play 
+C&1&2019-11-11 05:42:23&Also when I am in the middle of a playlist Hey Siri does not function at all but it does when listening to my Apple Music library and I find that inconvenient 
+C&1&2018-05-03 22:51:41&Every time I am on the move and trying to listen to Spotify the songs pause jump or send me to Siri 
+QA&4&2020-02-12 10:16:06&For some reason whenever I ask Siri to play a song it instead plays a station with songs that are supposed to be similar to it when they re really not it makes me upset so i have to manually play it 

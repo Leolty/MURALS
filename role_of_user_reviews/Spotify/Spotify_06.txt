@@ -1,0 +1,11 @@
+BR&2&2019-06-26 14:17:08&I can t seem to control the volume of Spotify on my Apple watch 
+FR&3&2018-12-14 15:12:27&You NEED to remove volume control on the Watch app 
+FR&3&2018-12-04 02:50:36&You NEED to remove volume control on the Watch app 
+BR&5&2021-10-08 05:21:43&Other than the app on my Apple Watch sometimes it doesn t change the volume when I want it to 
+FR&3&2018-10-25 02:04:44& Need Support of Apple Watch to remote Control the music
+QA&1&2019-10-24 10:03:25&Since the new update I CANNOT control the volume from my watch 
+BR&4&2018-11-17 14:09:50&Sometimes the play pause and volume controls dont work on the apple watch app or they tend to work slowly sometimes 
+P&4&2021-12-28 23:59:37&I love how I can semi control the music from my Apple Watch although I wish there were more options in the controls 
+FR&5&2017-08-02 23:06:16&Now Playing on the watch is limited to volume control and skipping 
+BR&4&2019-09-03 21:48:18&The only problem I found is that the volume control seems to be buggy between the phone and the watch  
+BR&1&2019-12-02 17:48:43& I can t control my music from my apple watch anymore which was super convenient 

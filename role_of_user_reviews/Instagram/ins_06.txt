@@ -1,0 +1,11 @@
+O&1&2020-04-30 10:48:06&My push notifications are turned on the instagram notifications in my settings are also turned on 
+BR&3&2018-01-30 06:57:34&I don t have push notifications for Instagram turned on 
+QA&3&2020-10-22 02:25:58& I have every notification setting turned on in both Instagram and in my phone settings and I don t get push notifications for messages or comments 
+QA&2&2019-03-30 10:19:27&I don t receive any notifications from instagram even though I have push notifications on and in settings all of my notifications are on 
+QA&3&2019-01-31 23:49:11&I haven t been getting instagram notifications in over a year I have turned on the push notifications within the app but in my phone settings there s no notification switch 
+C&2&2018-03-21 12:45:53&I Overall Like The App Instagram But I m Not Getting Any Of My Notifications I Went Through The Push Notifications Settings And Turned Them On 
+QA&1&2020-07-03 08:53:07&Although all my phone notification settings and in app notification settings are turned on I still don t receive any notifications from Instagram 
+QA&2&2020-04-07 12:32:57&the option to turn on push notifications in my settings aren t on and on instagram it says they re all on but it still doesn t work 
+FR&3&2019-10-29 19:27:23&Please give us a way to turn off notifications within the app NOT just push notifications 
+DP&1&2020-10-23 06:45:58&Still Instagram isn t pushing notifications
+QA&1&2020-11-10 16:30:07&My push notifications for both the app and in my setting are on however despite that I still am not receiving any Instagram notifications 

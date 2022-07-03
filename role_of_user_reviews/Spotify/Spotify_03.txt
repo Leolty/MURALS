@@ -1,0 +1,2 @@
+BR&2&2018-10-10 09:20:50&I had the lock screen issue phone was asleep and couldn t get the app to go from the car screen sometimes I had to get the music going from the phone when plugged into CarPlay 
+DP&2&2019-02-05 22:35:44&After the last couple of updates I have to force close the app before connecting for CarPlay to work or when switching audio outputs bluetooth headphones phone speaker 
